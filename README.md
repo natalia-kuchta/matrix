@@ -92,6 +92,6 @@ setInterval(draw, 33);
 
 # Screenshot
 
-![pink_matrix.png](src%2Fpink_matrix.png)
+![Screenshot from 2024-08-10 19-44-27](https://github.com/user-attachments/assets/fb5086fb-f182-4b25-ae5c-00d2906be115)
 
-![matrix.png](src%2Fmatrix.png)
+![Screenshot from 2024-08-10 20-11-50](https://github.com/user-attachments/assets/1b28081f-d9cc-4403-a731-b346f34233cb)
