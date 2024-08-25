@@ -1,7 +1,5 @@
 import './style.css'
 
-
-
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <canvas>
    
@@ -43,7 +41,7 @@ function rand(min: number, max: number): number {
 }
 
 function getColor() {
-    return 'hsl('+rand(280, 320)+',100%,50%)';
+    return 'hsl('+rand(280,320)+',100%,50%)';
 }
 
 function draw(){
